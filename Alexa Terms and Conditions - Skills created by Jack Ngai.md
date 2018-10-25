@@ -1,4 +1,4 @@
-#Alexa Terms and Conditions of Use (“Terms”)
+# Alexa Terms and Conditions of Use (“Terms”)
 Definitions:
 Reference to “the Skill” means the Amazon Skill that Jack Ngai has made available to Customers on the Amazon Alexa skill store;
 Reference to “Alexa” means the Amazon Voice Service that enables Customers to interact with compatible devices using voice;
